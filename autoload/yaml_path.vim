@@ -1,5 +1,5 @@
 ruby << RUBY
-gem 'psych', '= 3.0.0.beta3'
+gem 'psych', '>= 3.0.0'
 require 'psych'
 
 class YAMLPath
